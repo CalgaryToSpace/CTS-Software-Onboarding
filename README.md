@@ -1,12 +1,6 @@
 # CalgaryToSpace Software 
 CTS-SAT-1-era software team onboarding guide
 
-## Folder Structure
-  [Workspace]  	- The Operating System for the Satellite
-  
-  [Examples] 	- Contains demo projects for specific functions such as UART, SPI,  Task Management, etc
-  
-  [Tools]	- Simulators and other testing tools
 
 ## Getting Started
   #### Downloads 
