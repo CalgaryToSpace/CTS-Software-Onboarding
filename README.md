@@ -19,9 +19,10 @@
 - Micro-USB Cable
 
 #### Guides
-[GIT Tutorial](https://docs.google.com/presentation/d/1wr_xPIai-Gg8E0KEQzC6v0hETkPaw800/edit#slide=id.p1)
-[STM32 Nucleo Guide](https://www.youtube.com/watch?v=hyZS2p1tW-g&list=PLEBQazB0HUyRYuzfi4clXsKUSgorErmBv) 
-[STM32 - FreeRTOS Guide](https://www.digikey.ca/en/maker/projects/getting-started-with-stm32-introduction-to-freertos/ad275395687e4d85935351e16ec575b1)
+[GIT Tutorial](https://docs.google.com/presentation/d/1wr_xPIai-Gg8E0KEQzC6v0hETkPaw800/edit#slide=id.p1) ||
+[STM32 Nucleo Guide](https://www.youtube.com/watch?v=hyZS2p1tW-g&list=PLEBQazB0HUyRYuzfi4clXsKUSgorErmBv)  ||
+[STM32 - FreeRTOS Guide](https://www.digikey.ca/en/maker/projects/getting-started-with-stm32-introduction-to-freertos/ad275395687e4d85935351e16ec575b1) ||
+[STM32 - I2C & UART Guide](https://youtu.be/isOekyygpR8?si=WwGrYZXlniSiYubi)
 
 ## Code Push and Review Process
 
