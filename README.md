@@ -1,4 +1,5 @@
-# CalgarytoSpace Software 
+# CalgaryToSpace Software 
+CTS-SAT-1-era software team onboarding guide
 
 ## Folder Structure
   [Workspace]  	- The Operating System for the Satellite
@@ -12,11 +13,12 @@
 - [STM32 CubeIDE - Integrated Development Environment Download](https://www.st.com/en/development-tools/stm32cubeide.html)
 - [Git Bash Download ](https://git-scm.com/downloads)
 - [GitHub Desktop Download](https://desktop.github.com/)
-- [Visual Studio Code](https://code.visualstudio.com/) (Optional) 
+- [Visual Studio Code](https://code.visualstudio.com/) (optional) 
 
 #### Hardware
-- STM32L4R5ZI Nucleo-144
+- `STM32L4R5ZI` Nucleo-144
 - Micro-USB Cable
+  - Must support data transfer. Please bring one from home if you can.
 
 #### Guides
 [GIT Tutorial](https://docs.google.com/presentation/d/1wr_xPIai-Gg8E0KEQzC6v0hETkPaw800/edit#slide=id.p1) ||
@@ -31,23 +33,7 @@
 - Concise Description
 - Testing used to verify the change
 
-### Using CMD Line
-
-#### Committing a Change and Submitting a Pull Request
-1) Update your local repo with `git pull origin master` 
-2) Create a working branch with `git checkout -b MyNewBranch`
-3) Make your changes on your branch and stage them with `git add .` to stage all changes. 
-4) Commit your changes locally with `git commit -m "description of your commit"`
-5) Make as many commit as needed to implement the change/feature 
-6) Upload the changes (including your new branch) to GitHub with `git push origin MyNewBranch`
-7) Go to the main repo on GitHub where you should now see your new branch
-8) Click on your branch name
-9) Click on “Pull Request” button to 
-10) Click on “Send Pull Request” to development/main 
-11) Have Pull request reviewed by 3 people
-12) Pull request is good to submit after 3 "Approves"
-
-### Using GitHub Desktop
+### Using GitHub Desktop (Recommended)
 Download and Install GitHub Desktop (link above)
 1) Log in to your GitHub account
 2) Select your repository (or clone it from Git)
@@ -77,5 +63,24 @@ Nice, you have just pushed a change. Remember that pushes and commits can be rev
 2) Leave comments for any questions or things you think needs changing
 3) If you think its good to submit, comment "Approved"
 4) If you think its not good to submit, comment "Revise"
+
+
+### Using Git Command Line (Not Recommended)
+For CalgaryToSpace, using GitHub Desktop is strongly recommended.
+
+#### Committing a Change and Submitting a Pull Request
+1) Update your local repo with `git pull origin master` 
+2) Create a working branch with `git checkout -b MyNewBranch`
+3) Make your changes on your branch and stage them with `git add .` to stage all changes. 
+4) Commit your changes locally with `git commit -m "description of your commit"`
+5) Make as many commit as needed to implement the change/feature 
+6) Upload the changes (including your new branch) to GitHub with `git push origin MyNewBranch`
+7) Go to the main repo on GitHub where you should now see your new branch
+8) Click on your branch name
+9) Click on "Pull Request" button to 
+10) Click on "Send Pull Request" to development/main 
+11) Have Pull request reviewed by 3 people
+12) Pull request is good to submit after 3 "Approves"
+
 
 ## GoogleTest Setup Guide: (https://github.com/CalgaryToSpace/OBC_software/blob/Onboarding/GoogleTestSetup.md)
