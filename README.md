@@ -5,9 +5,9 @@ CTS-SAT-1-era software team onboarding guide
 ### Downloads
 Please install the following software:
 
-1. [STM32CubeIDE - Integrated Development Environment Download](https://www.st.com/en/development-tools/stm32cubeide.html)
-2. [Git Bash Download](https://git-scm.com/downloads) (for Windows only)
-3. [GitHub Desktop Download](https://desktop.github.com/)
+1. [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+2. [Git Bash](https://git-scm.com/downloads) (for Windows only)
+3. [GitHub Desktop](https://desktop.github.com/)
 4. [Visual Studio Code](https://code.visualstudio.com/) (optional, recommended)
 
 ### Hardware
@@ -17,12 +17,22 @@ You require at least the following hardware:
 - Micro-USB Cable
   - Must support data transfer. Please bring one from home if you can.
 
-### Guides
-Please complete the following guides:
-1. [GIT Tutorial](https://docs.google.com/presentation/d/1wr_xPIai-Gg8E0KEQzC6v0hETkPaw800/edit#slide=id.p1)
-2. [STM32 Blinky LED Tutorial - Video](https://www.youtube.com/watch?v=hyZS2p1tW-g&list=PLEBQazB0HUyRYuzfi4clXsKUSgorErmBv)
-3. [STM32 - FreeRTOS Guide - Video](https://www.digikey.ca/en/maker/projects/getting-started-with-stm32-introduction-to-freertos/ad275395687e4d85935351e16ec575b1)
-4. [STM32 - I2C & UART Guide - Video](https://youtu.be/isOekyygpR8?si=WwGrYZXlniSiYubi)
+### Tutorials
+Please complete the following tutorials:
+
+#### STM32 Programming
+1. [STM32 Blinky LED Tutorial - Video](https://www.youtube.com/watch?v=hyZS2p1tW-g&list=PLEBQazB0HUyRYuzfi4clXsKUSgorErmBv)
+2. [STM32 - FreeRTOS Guide - Video](https://www.digikey.ca/en/maker/projects/getting-started-with-stm32-introduction-to-freertos/ad275395687e4d85935351e16ec575b1)
+3. [STM32 - I2C & UART Guide - Video](https://youtu.be/isOekyygpR8?si=WwGrYZXlniSiYubi)
+
+#### Git Version Control
+Please complete Item 1. Item 2 is a helpful read, which is essentially a review of Item 1, with more practice.
+
+1. [Git, GitHub, and GitHub Desktop - Video](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+  * Please follow along with the video for practice.
+2. [Git and GitHub Desktop - Reading](https://www.codecademy.com/article/what-is-git-and-github-desktop) (optional)
+  * In your test repo, try Branching.
+3. [Git CLI - Presentation](https://docs.google.com/presentation/d/1wr_xPIai-Gg8E0KEQzC6v0hETkPaw800/edit#slide=id.p1) (optional)
 
 ## Code Push and Review Process
 
