@@ -34,7 +34,7 @@ Please complete Item 1. Item 2 is a helpful read, which is essentially a review 
   * In your test repo, try Branching.
 3. [Git CLI - Presentation](https://docs.google.com/presentation/d/1wr_xPIai-Gg8E0KEQzC6v0hETkPaw800/edit#slide=id.p1) (optional)
 
-## Code Push and Review Process
+## Version Control (Git) Process
 
 #### Commit Message Format:
 - Short Title
@@ -67,7 +67,10 @@ Nice, you have just pushed a change. Remember that pushes and commits can be rev
 
 
 ### Using Git Command Line (Not Recommended)
-For CalgaryToSpace, using GitHub Desktop is strongly recommended.
+For CalgaryToSpace, **using GitHub Desktop is strongly recommended.**
+
+GitHub Desktop's easy-to-use GUI allows for easier review and inclusion of files for commits. Identifying which files should be comitted in a change is important, as STM32CubeIDE sometimes changes/regenerates files that you do not intend to change.
+
 <details>
 <summary>Click to expand</summary>
 
