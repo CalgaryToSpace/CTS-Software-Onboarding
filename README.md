@@ -25,6 +25,7 @@ Please complete the following tutorials:
   * The GPIO pin for the LD2 LED is PB7
 2. [STM32 - FreeRTOS Guide - Video](https://www.digikey.ca/en/maker/projects/getting-started-with-stm32-introduction-to-freertos/ad275395687e4d85935351e16ec575b1)
 3. [STM32 - I2C & UART Guide - Video](https://youtu.be/isOekyygpR8?si=WwGrYZXlniSiYubi)
+  * Use LPUART1 (Pins PG7 and PG8)
 
 #### Git Version Control
 Please complete Item 1. Item 2 is a helpful read, which is essentially a review of Item 1, with more practice.
