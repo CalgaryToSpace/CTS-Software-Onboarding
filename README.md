@@ -22,10 +22,16 @@ Please complete the following tutorials:
 
 #### STM32 Programming
 1. [STM32 Blinky LED Tutorial - Video](https://www.youtube.com/watch?v=hyZS2p1tW-g&list=PLEBQazB0HUyRYuzfi4clXsKUSgorErmBv)
-  * The GPIO pin for the LD2 LED is PB7
+  * The GPIO pin for the LD2 LED is PB7, LD1 is Pin PC7, and LD3 is Pin PB14.
 2. [STM32 - FreeRTOS Guide - Video](https://www.digikey.ca/en/maker/projects/getting-started-with-stm32-introduction-to-freertos/ad275395687e4d85935351e16ec575b1)
+  * After you get the tutorial working, modify the threads so that each thread blinks a different LED at a different rate.
+    * For example, make LD2 blink every 1.2 seconds, and LD1 blink every 0.8 seconds.
 3. [STM32 - I2C & UART Guide - Video](https://youtu.be/isOekyygpR8?si=WwGrYZXlniSiYubi)
   * Use LPUART1 (Pins PG7 and PG8)
+  * Practice using UART by getting a USB-to-Serial converter, and connecting it to the pins on the dev kit.
+  * Write firmware that sends UART messages out on the dev kit's TX pin, and is received by a serial terminal through the UART converter's RX pin.
+  * Stretch goal: Write firmware that received UART messages on the dev kit's RX pin, and then echos them back to the USB-to-Serial converter.
+  * No I2C practice right now
 
 #### Git Version Control
 Please complete Item 1. Item 2 is a helpful read, which is essentially a review of Item 1, with more practice.
